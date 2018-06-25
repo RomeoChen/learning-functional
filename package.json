@@ -1,0 +1,14 @@
+{
+  "name": "learning-functional",
+  "version": "1.0.0",
+  "description": "Functional lib and examples in ES6",
+  "main": "index.js",
+  "scripts": {
+    "playground": "babel-node functional-playground/play.js --presets env"
+  },
+  "author": "romeo",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
